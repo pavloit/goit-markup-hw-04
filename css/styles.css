@@ -21,6 +21,7 @@ h5,
 h6,
 ul,
 ol,
+p,
 body {
     margin: 0;
     padding: 0;
@@ -279,7 +280,7 @@ a, address {
 
 .doing-h, .team-h {
     font-size: 36px;
-    font-weight: 500;
+    font-weight: 700;
     line-height: 1.11;
     text-align: center;
     letter-spacing: 0.02em;
@@ -431,7 +432,7 @@ a, address {
 
 /* portfolio button list */
 .btn-list {
-    margin: 86px auto 72px;
+    margin-bottom: 72px;
     display: flex;
     justify-content: center;
     gap: 24px;
